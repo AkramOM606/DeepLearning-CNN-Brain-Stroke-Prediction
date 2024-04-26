@@ -18,7 +18,16 @@ Instructions for setting up and installing the project, including any dependenci
 Instructions for using the project, including how to run the model and interpret the results.
 
 ## Contributing
-Information about how others can contribute to the project.
+
+We welcome contributions to enhance this project! Feel free to:
+
+1. Fork the repository.
+2. Create a new branch for your improvements.
+3. Make your changes and commit them.
+4. Open a pull request to propose your contributions.
+
+We'll review your pull request and provide feedback promptly.
 
 ## License
-Information about the license.
+
+This project is licensed under the MIT License: [https://opensource.org/licenses/MIT](https://opensource.org/licenses/MIT) (see LICENSE.md for details).
