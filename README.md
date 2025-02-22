@@ -11,12 +11,6 @@ The model is trained on a dataset of CT scans from Kaggle, which includes both p
 ## Model
 The model is a Convolutional Neural Network, a class of deep learning models, that has proven to be highly effective in areas such as image recognition and classification. CNNs are particularly good at picking up on patterns in the input image, such as lines, gradients, circles, or even eyes and faces. It's this property that makes convolutional networks so powerful for computer vision tasks.
 
-## Installation
-Instructions for setting up and installing the project, including any dependencies.
-
-## Usage
-Instructions for using the project, including how to run the model and interpret the results.
-
 ## Contributing
 
 We welcome contributions to enhance this project! Feel free to:
